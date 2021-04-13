@@ -46,7 +46,7 @@ function createLineChart()
                 },
                 title: {
                     display: true,
-                    text: 'Water Consumption in New York City'
+                    text: ['Water Consumption in New York City', 'Made by Ricky Chon']
                 }
             },
             scales: {
@@ -87,7 +87,7 @@ function createDoughnut()
                 },
                 title: {
                     display: true,
-                    text: 'Projected Citywide Energy Cost in 2022 (in millions)'
+                    text: ['Projected Citywide Energy Cost in 2022 (in millions)', 'Made by Ricky Chon']
                 }
             }
         }
